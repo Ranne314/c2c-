@@ -2,7 +2,7 @@
 
 ## Overview
 
-`c2cpp` is a command-line utility designed to convert C source code files to most C++ standards. It performs syntax replacements, removes redundant `auto` keywords, and creates a new `.cpp` file while keeping the original `.c` file unmodified. This tool ensures compatibility with C++ while retaining most of the original structure and logic of the C code.
+`c2cpp` is a command-line utility designed to convert C source code files to most C++ standards. It performs syntax replacements, removes redundant `auto` keywords, and changes more things to convert your C code to C++ code ! C2cpp ensures compatibility with C++ while retaining most of the original structure and logic of the C code.
 
 ## Features
 
