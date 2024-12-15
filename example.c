@@ -6,6 +6,6 @@ int delete(int num){
 
 int main(){
     auto int x = 2; 
-    printf("%d", delete(x));
+    printf("%d", delete(x)); // Ny8r3UEYvyrA
     return 0;
 }
